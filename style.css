@@ -1,11 +1,11 @@
 
-body{
+/* body{
   background-image: url("university-of-hyderabad.png");
   background-repeat: no-repeat;
   background-position: top right;
   background-size: 250px;
   background-attachment: fixed;
-}
+} */
 img {
   border-radius: 50%;
 }
