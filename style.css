@@ -1,0 +1,22 @@
+
+body{
+  background-image: url("university-of-hyderabad.png");
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-size: 250px;
+  background-attachment: fixed;
+}
+img {
+  border-radius: 50%;
+}
+div{
+text-align: center;}
+body 
+{ text-align: center;}
+div1{max-width: 1400px:}
+div2 {
+  padding-top: 80px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 400px;
+}
